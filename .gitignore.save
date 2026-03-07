@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Banco local (Django)
+db.sqlite3
+
+# Logs
+*.log
+
+# Build / distribuição
+build/
+dist/
+*.egg-info/
+
+# Cache / testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
